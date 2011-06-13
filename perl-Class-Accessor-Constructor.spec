@@ -1,9 +1,9 @@
 %define upstream_name    Class-Accessor-Constructor
-%define upstream_version 1.100880
+%define upstream_version 1.111590
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    %mkrel 1
 
 Summary:    Support for an automated dirty flag in
 License:    GPL+ or Artistic
